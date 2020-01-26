@@ -1,0 +1,94 @@
+baseURL = "https://itpp.dev/"
+languageCode = "en-us"
+title = "IT-Projects Labs"
+theme = "meghna"
+
+############################# Navigation ##################################
+[[menu.main]]
+#name = ""
+#URL = "docs"
+#weight = 1
+
+#[[menu.main]]
+#name = "About Us"
+#URL = "about"
+#weight = 1
+#
+#[[menu.main]]
+#name = "Service"
+#URL = "services"
+#weight = 2
+#
+#[[menu.main]]
+#name = "Portfolio"
+#URL = "portfolio"
+#weight = 3
+#
+#[[menu.main]]
+#name = "Team"
+#URL = "team"
+#weight = 4
+#
+#[[menu.main]]
+#name = "Pricing"
+#URL = "pricing"
+#weight = 5
+#
+#[[menu.main]]
+#name = "Blog"
+#URL = "blog"
+#weight = 6
+
+[[menu.main]]
+name = "Contact Us"
+URL = "contact"
+weight = 7
+
+
+
+############################# Default Parameters ##########################
+[params]
+logo = "images/logo.png"
+# Meta data
+description = "IT-Projects Labs: Odoo DevOps and Expertise"
+# post share
+post_share = true
+
+# preloader
+[params.preloader]
+enable = false
+preloader = "images/logo.png"
+
+
+############################# Plugins ##########################
+# css plugins
+[[params.plugins.css]]
+link = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+link = "plugins/themify-icons/themify-icons.css"
+[[params.plugins.css]]
+link = "plugins/animate-css/animate.css"
+[[params.plugins.css]]
+link = "plugins/magnific-popup/magnific-popup.css"
+[[params.plugins.css]]
+link = "plugins/slick/slick.css"
+[[params.plugins.css]]
+link = "https://fonts.googleapis.com/css?family=Anaheim|Quattrocento+Sans:400,700&display=swap"
+
+# js plugins
+[[params.plugins.js]]
+link = "plugins/jquery/jquery.min.js"
+[[params.plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+link = "plugins/slick/slick.min.js"
+[[params.plugins.js]]
+link = "plugins/shuffle/shuffle.min.js"
+[[params.plugins.js]]
+link = "plugins/magnific-popup/jquery.magnific-popup.min.js"
+[[params.plugins.js]]
+link = "plugins/wow/wow.min.js"
+[[params.plugins.js]]
+link = "plugins/lazy-load/lozad.min.js"
+[[params.plugins.js]]
+link = "plugins/google-map/map.js"

@@ -1,0 +1,20 @@
+############################## Contact #############################
+contact:
+  enable : true
+  title : Contact Us
+  subtitle : Contact Details
+  content : Feel free to contact us for whatever questions you have
+  form_action: "https://formspree.io/info@itpp.dev"
+
+  contact_details :
+#    - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
+#      info : "Khaja Road, Bayzid, Chittagong, Bangladesh"
+#      
+#    - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
+#      info : "Phone: +880-31-000-000"
+#      
+#    - icon : ti-printer # themify icon pack : https://themify.me/themify-icons
+#      info : "Fax: +880-31-000-000"
+      
+    - icon : ti-email # themify icon pack : https://themify.me/themify-icons
+      info : "Email: info@itpp.dev"
