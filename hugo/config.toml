@@ -5,9 +5,9 @@ theme = "meghna"
 
 ############################# Navigation ##################################
 [[menu.main]]
-#name = ""
-#URL = "docs"
-#weight = 1
+name = "Docs"
+URL = "docs"
+weight = 1
 
 #[[menu.main]]
 #name = "About Us"
