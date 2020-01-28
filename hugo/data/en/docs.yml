@@ -1,0 +1,24 @@
+############################# Docs ###################################
+docs:
+  enable : true
+  title : Docs
+  docs_item :
+  - icon : ti-infinite # themify icon pack : https://themify.me/themify-icons
+    title : Odoo DevOps
+    url: /ops/
+    content : How to organize development processes for continuous integration, deployment and enjoyment
+
+  - icon : ti-search # themify icon pack : https://themify.me/themify-icons
+    title : Odoo Auto Tests
+    url: /test/
+    content : How to make tests in Odoo to check python code or run headless browser tests.
+
+  - icon : ti-arrow-top-right # themify icon pack : https://themify.me/themify-icons
+    title : Porting Odoo Modules
+    url: /port/
+    content : How to simplify process of adapting modules for new Odoo versions
+
+  - icon : ti-comment # themify icon pack : https://themify.me/themify-icons
+    title : ChatOps
+    url: /chat/
+    content : Chat Bots at your service

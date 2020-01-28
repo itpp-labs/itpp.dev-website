@@ -6,7 +6,7 @@ banner:
   icon : "" # themify icon pack : https://themify.me/themify-icons
   title : "IT-Projects Labs"
   content : "Odoo DevOps and Expertise"
-#  button:
-#    enable : true
-#    label : "Learn How"
-#    link : "#docs"
+  button:
+    enable : true
+    label : "Learn How"
+    link : "#docs"
