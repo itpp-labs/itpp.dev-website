@@ -5,7 +5,7 @@ banner:
   bg_image : "images/backgrounds/banner.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
   title : "IT-Projects Labs"
-  content : "Odoo DevOps and Expertise"
+  content : "Keep growing while we make your Odoo life easier"
   button:
     enable : true
     label : "Learn How"
