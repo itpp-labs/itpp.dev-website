@@ -4,7 +4,7 @@ banner:
   bg_image_webp : "images/backgrounds/banner.webp"
   bg_image : "images/backgrounds/banner.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
-  title : "IT-Projects Labs"
+  title : "IT Projects Labs"
   content : "Keep growing while we make your Odoo life easier"
   button:
     enable : true
