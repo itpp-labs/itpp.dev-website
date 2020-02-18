@@ -1,6 +1,6 @@
 baseURL = "https://itpp.dev/"
 languageCode = "en-us"
-title = "IT-Projects Labs"
+title = "IT Projects Labs"
 theme = "meghna"
 
 ############################# Navigation ##################################
@@ -50,7 +50,7 @@ weight = 7
 [params]
 logo = "images/logo.png"
 # Meta data
-description = "IT-Projects Labs: Odoo DevOps and Expertise"
+description = "IT Projects Labs: Odoo DevOps and Expertise"
 # post share
 post_share = true
 
